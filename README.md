@@ -1,7 +1,7 @@
 This script takes a single argument in the form of an arabic numeral and returns the equivalent roman numeral.  
 To call the function use; 
 
-'converToRoman(num)'
+    converToRoman(num)
 
 Examples;
 
